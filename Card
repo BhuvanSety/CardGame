@@ -1,3 +1,5 @@
+//This is for the card class
+//Currently has one attribute
 public class Card {
     private int indexValue;
 
